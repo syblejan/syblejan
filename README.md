@@ -1,95 +1,92 @@
-# Hi, I'm Syble Jan 👋
+# Hi there! 👋
 
-### AI/ML Engineer | Computer Vision | Generative AI
+### 👨‍💻 Aspiring AI/ML Engineer | Generative AI | Computer Vision | LLMs & RAG
 
-I'm a Computer Science graduate focused on building practical
-AI/ML solutions using Python, Machine Learning, Deep Learning,
-Computer Vision, and Generative AI.
+🎓 **Final-Year BS Computer Science Student**  
+📍 Peshawar, Pakistan  
+🌍 Open to Remote AI/ML Roles & Internship Opportunities
 
-I enjoy turning real-world problems into intelligent,
-usable applications.
+I'm a final-year Computer Science student passionate about developing practical AI-powered solutions using **Machine Learning, Deep Learning, Computer Vision, NLP, and Generative AI**.
+
+My projects explore real-world applications of **LLMs, Retrieval-Augmented Generation (RAG), transformer fine-tuning, and predictive modeling**.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 BS Computer Science Graduate
-- 🤖 Focused on AI / Machine Learning
-- 👁️ Interested in Computer Vision
-- 🧠 Exploring LLMs, RAG & Generative AI
-- ⚙️ Learning MLOps and production ML workflows
-- 🌍 Open to remote AI/ML opportunities
+- 🎓 Final-year BS Computer Science student
+- 🤖 Building AI/ML and Generative AI applications
+- 👁️ Interested in Computer Vision and Deep Learning
+- 🧠 Working with LLMs, RAG, LangChain, and Hugging Face
+- ⚙️ Learning MLOps, model deployment, and production ML workflows
+- 🌍 Seeking AI/ML internships and junior engineering opportunities
 
----
+## 🛠️ Technical Skills
 
-## 🛠️ Tech Stack
+**Programming:** Python, SQL
 
-### Programming
-Python | SQL
+**Machine Learning:** Scikit-learn, Pandas, NumPy, Feature Engineering, Model Evaluation
 
-### Machine Learning
-Scikit-learn | Pandas | NumPy
+**Deep Learning:** PyTorch, TensorFlow, Keras, LSTM, BiLSTM, Transformers
 
-### Deep Learning
-TensorFlow | Keras | PyTorch
+**Computer Vision:** OpenCV, MediaPipe
 
-### Computer Vision
-OpenCV | MediaPipe | YOLO
+**Generative AI & NLP:** LLMs, RAG, LangChain, Hugging Face, BERT, Fine-Tuning, LoRA, QLoRA
 
-### Generative AI
-LLMs | RAG | LangChain | Hugging Face
+**Tools & Frameworks:** Git, GitHub, Streamlit, Gradio, Jupyter Notebook, Google Colab
 
-### Tools
-Git | GitHub | Jupyter | Anaconda
+## 🌟 Featured Project
 
----
+### 🤟 SignBridge — Bidirectional ASL ↔ English Translation
 
-## 🚀 Featured Project
+My Final Year Project explores an AI-powered system designed to bridge communication between American Sign Language users and English speakers.
 
-### 🤟 SignBridge — Real-Time ASL Recognition
+**Core capabilities:**
+- Real-time ASL gesture recognition using computer vision and deep learning
+- ASL gesture-to-English text and speech conversion
+- LLM-assisted English sentence generation
+- English text and speech-to-ASL translation support
+- MediaPipe landmark extraction and BiLSTM-based gesture classification
 
-An AI-powered sign language system designed to translate
-American Sign Language gestures into English text and speech.
+**Tech Stack:** Python, OpenCV, MediaPipe, BiLSTM, LLMs, Text-to-Speech
 
-**Technologies:**
-Python • MediaPipe • OpenCV • Bi-LSTM • Deep Learning
+## 📌 Selected AI/ML Projects
 
-Features include:
+### 🧠 Context-Aware Chatbot Using LangChain & RAG
 
-- Real-time ASL gesture recognition
-- ASL → English text
-- Text-to-speech
-- Sentence generation
-- English → ASL support
+A document-aware conversational chatbot using Mistral AI, FAISS vector search, LangChain, and conversation memory.
 
----
+[View Repository](https://github.com/syblejan/Context-Aware-Chatbot-Using-LangChain-or-RAG)
 
-## 📌 Other AI/ML Projects
+### 🤖 Auto-Tagging Support Tickets Using LLMs
 
-- ❤️ Heart Disease Prediction
-- 🎗️ Breast Cancer Classification
-- 💳 Credit Card Fraud Detection
-- 📈 Stock Market Prediction
-- 📧 Spam/Ham Classification
-- 📄 Resume Classification
-- 🦠 COVID-19 Image Classification
-- 🌍 GDP Forecasting
+A customer support ticket classification project exploring zero-shot prompting, few-shot prompting, and QLoRA fine-tuning with Qwen2.5-3B-Instruct.
 
----
+[View Repository](https://github.com/syblejan/Auto-Tagging-Support-Tickets-Using-LLM)
+
+### 📰 News Topic Classification Using BERT
+
+A transformer-based NLP project using BERT fine-tuning for news topic classification, with a Gradio interface for inference.
+
+[View Repository](https://github.com/syblejan/News-Topic-Classifier-Using-BERT)
+
+### ❤️ Heart Disease Prediction
+
+A machine learning classification project covering exploratory data analysis, preprocessing, logistic regression, and model evaluation.
+
+[View Repository](https://github.com/syblejan/Heart_Disease_prediction)
 
 ## 📚 Currently Learning
 
-- MLOps
-- LLM Applications
-- RAG Systems
-- AI Agents
-- Model Deployment
-- Cloud & Production ML
-
----
+- MLOps and ML deployment
+- AI Agents and workflow automation
+- Docker and CI/CD concepts
+- Production-ready RAG applications
+- Cloud-based AI/ML systems
 
 ## 🤝 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/syble-jan/?isSelfProfile=true))
+💼 [LinkedIn](https://www.linkedin.com/in/syble-jan/)  
+💻 [GitHub](https://github.com/syblejan)
 
-[GitHub](https://github.com/syblejan)
+*Open to collaboration, learning opportunities, internships, and entry-level AI/ML engineering roles.*
